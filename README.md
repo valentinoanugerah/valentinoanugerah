@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there 👋, I'm Valentino Anugerah
 
-<!--
-**valentinoanugerah/valentinoanugerah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I'm a passionate **student & developer** from Indonesia, exploring **Android, Web, and Backend development**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+- **Languages:**  PHP, Golang, SQL,  
+- **Frameworks & Libraries:** Laravel, Tailwind CSS  
+- **Database & Storage:** MySQL, PostgreSQL, Firebase   
+- **Other Interests:** Custom ROMs, Android OS development  
+
+---
+
+Check all my projects [here](https://github.com/ValentinoAnugerah?tab=repositories)
+
+---
+
+## 📫 Contact
+- **Email:** your-email@example.com  
+- **LinkedIn:** [linkedin.com/in/valentino-anugerah](https://www.linkedin.com/in/valentino-anugerah-nijar-844278376/)  
+
+
+---
+
+💡 *“Learning by doing is my superpower. I build projects that solve real problems.”*
