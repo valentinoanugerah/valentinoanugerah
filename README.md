@@ -18,7 +18,7 @@ Check all my projects [here](https://github.com/ValentinoAnugerah?tab=repositori
 ---
 
 ## 📫 Contact
-- **Email:** your-email@example.com  
+- **Email:** valentinoanugerah2000@gmail.com
 - **LinkedIn:** [linkedin.com/in/valentino-anugerah](https://www.linkedin.com/in/valentino-anugerah-nijar-844278376/)  
 
 
